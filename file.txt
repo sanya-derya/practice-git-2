@@ -1,2 +1,6 @@
 Master branch
+<<<<<<< HEAD
 Git commit 3
+=======
+Added Commit 4
+>>>>>>> branch1
