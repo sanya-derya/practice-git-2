@@ -1,6 +1,10 @@
 Master branch
 <<<<<<< HEAD
+<<<<<<< HEAD
 Git commit 3
 =======
 Added Commit 4
 >>>>>>> branch1
+=======
+Added Commit 6
+>>>>>>> branch2
